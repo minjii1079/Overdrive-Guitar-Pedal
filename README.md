@@ -1,11 +1,11 @@
-# Custom Analog Overdrive Guitar Pedal
+# Custom Overdrive Guitar Pedal
 
 [![GitHub Topics](https://img.shields.io/badge/guitar-pedal-blue)](https://github.com/minjii1079/Overdrive-Guitar-Pedal)
 [![Multisim](https://img.shields.io/badge/Multisim-Simulation-orange)](https://nationalinstruments.com)
 [![KiCad](https://img.shields.io/badge/KiCad-PCB%20Design-red)](https://kicad.org)
 
 ## Overview
-Designing and building a custom analog overdrive guitar pedal. This project covers the entire hardware development timeline, including simulating circuit performance in NI Multisim, breadboarding and testing the physical components, designing the schematic and custom PCB layout in KiCad, manufacturing the physical PCBs, and utilizing a CNC machine for the final enclosure build.
+Designing and building a custom analog overdrive guitar pedal. This project covers the entire hardware development timeline, including simulating circuit performance in NI Multisim, breadboarding and testing physical components, designing the schematic and custom PCB layout in KiCad, manufacturing the PCBs, and using a CNC machine for the final enclosure build.
 
 ---
 
